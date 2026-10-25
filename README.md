@@ -57,11 +57,11 @@ The following images were captured from the actual running program and are inclu
 |---|---|
 | `main-menu.png` | Main menu and exit option |
 | `add-and-display-records.png` | Register multiple requests and display them |
-| `queue-operations.png` | Enqueue, peek, display, and dequeue operations |
+| `queue-operations.png` | Peek and display of the pending queue; registration and FIFO screenshots show enqueue and dequeue |
 | `fifo-behavior.png` | Show at least two request IDs queued and the first registered request processed first |
 | `sorting-algorithm-1.png` | Bubble Sort with records before and after sorting by title |
 | `sorting-algorithm-2.png` | Insertion Sort with records before and after sorting by student name |
-| `input-validation.png` | Blank text, nonnumeric/out-of-range input, and an empty-queue or missing-record message |
+| `input-validation.png` | Nonnumeric and out-of-range menu input with clear error messages |
 
 ## Grading Criteria Coverage
 
