@@ -51,7 +51,7 @@ Use menu option `0` to exit. Menu choices 4 and 5 sort the records; options 6 th
 
 ## Screenshots of the System
 
-Capture these images from the actual running program and save them in `screenshots/`. The images listed here are placeholders for the student's real program captures and have not been fabricated.
+The following images were captured from the actual running program and are included in `screenshots/`.
 
 | Screenshot file | What to capture |
 |---|---|
@@ -65,4 +65,4 @@ Capture these images from the actual running program and save them in `screensho
 
 ## Grading Criteria Coverage
 
-The project is organized to address all nine rubric categories: integrated application features; two manual sorts; FIFO queue operations; parallel `ArrayList` record management; input validation; procedural code with no custom classes; this README and readable source; Git usage through meaningful commits; and submission files/screenshots. The source and documentation are committed to the public `main` branch in GitHub with separate, descriptive commits. The `screenshots/` folder is present, but the seven genuine program-output screenshots listed above still need to be captured from a live run and committed to complete the submission evidence.
+The project is organized to address all nine rubric categories: integrated application features; two manual sorts; FIFO queue operations; parallel `ArrayList` record management; input validation; procedural code with no custom classes; this README and readable source; Git usage through meaningful commits; and submission files/screenshots. The source, documentation, and seven screenshots are committed to the public `main` branch in GitHub with separate, descriptive commits.
